@@ -1,0 +1,28 @@
+.welcome{border-radius: 15px;
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+  width:750px;
+  height: 450pxs;
+
+}
+.course{border-radius: 15px;
+  background-color: gray;
+  float: left;
+  padding: 20px;
+  width:550px;
+  height: 350pxs;
+
+}
+
+.basic{border-radius: 15px;
+  background-color: grey;
+  padding: 20px;
+  float: right;
+  width:550px;
+  height: 250pxs;
+
+}
+.footer{
+  background-color: lightblue;
+}
